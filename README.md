@@ -5,7 +5,7 @@ Portal for verifiers to prove their identity online. Verifiers are sent an email
 
 
 <p align="center">
-  <img src="http://i64.tinypic.com/25yzp6h.png">
+  <img width="50%" height="50%" src="http://i64.tinypic.com/25yzp6h.png">
 </p>
 
 
